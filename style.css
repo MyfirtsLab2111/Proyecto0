@@ -1,6 +1,14 @@
 header {
-  background-color: red;
-
+  background-color: black;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.cuadro {
+  border: solid 2px 
+  padding: 5px;
+  
 }
 
 
